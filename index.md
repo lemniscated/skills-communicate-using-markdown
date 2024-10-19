@@ -9,10 +9,19 @@
 
 ![Welcome to GitHub, folks!!](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
 
+<hr>
+
 ``` css
 body {
 background-color: yellow;
 }
 ```
+<hr>
 
-> I only tried adding headings, image and a code snippet with alt text in this .md commit, noting else.
+### List example
+
+- [x] Syntax is case-sensitive
+- [x] completed task
+- [ ] incomplete task
+
+> I only tried adding headings, image, list and a code snippet with alt text in this .md commit, noting else.
