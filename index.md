@@ -9,4 +9,10 @@
 
 ![Welcome to GitHub, folks!!](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
 
-> I only tried adding headings and images with alt text in this .md commit, noting else.
+``` css
+body {
+background-color: yellow;
+}
+```
+
+> I only tried adding headings, image and a code snippet with alt text in this .md commit, noting else.
